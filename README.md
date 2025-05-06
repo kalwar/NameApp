@@ -101,4 +101,4 @@ Laravel's session system allows you to store data for a user across multiple req
 - **Routes**: `routes/web.php` defines the URLs (`/names`, `/names/{id}/edit`, etc.).
 - **Session Storage**: Data is stored in the session, not a database, for simplicity.
 
-If you encounter issues or have questions, contact your instructor or refer to the [Laravel Documentation](https://laravel.com/docs).
+If you encounter issues or have questions, refer to the [Laravel Documentation](https://laravel.com/docs).
