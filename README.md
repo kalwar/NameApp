@@ -98,7 +98,7 @@ Laravel's session system allows you to store data for a user across multiple req
 
 - **Controller**: `app/Http/Controllers/NameController.php` handles all logic (add, edit, delete, display).
 - **View**: `resources/views/name.blade.php` contains the form and list display.
-- **Routes**: `routes/web.php` defines the URLs (`/names`, `/names/{id}/edit`, etc.).
+- **Routes**: `routes/web.php` defines the URLs (`/`, `/{id}/edit`, etc.).
 - **Session Storage**: Data is stored in the session, not a database, for simplicity.
 
 If you encounter issues or have questions, refer to the [Laravel Documentation](https://laravel.com/docs).
