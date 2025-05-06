@@ -55,7 +55,7 @@ Follow these steps to set up the project on your computer:
      ```bash
      php artisan serve
      ```
-   - Open your browser and visit `http://localhost:8000/names` to access the application.
+   - Open your browser and visit `http://localhost:8000/` to access the application.
 
 ## Using the Application
 
